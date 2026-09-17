@@ -1,4 +1,4 @@
-![black-operator banner](./assets/banner.png)
+![black-operator banner](./banner.png)
 
 ---
 
