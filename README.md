@@ -1,7 +1,5 @@
 ![black-operator banner](./banner.png)
 
----
-
 ## about
 
 i build software with a focus on clarity, structure, and good interaction.
