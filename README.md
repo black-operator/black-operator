@@ -15,7 +15,3 @@ I test software for security vulnerabilities. If there’s a flaw, I’ll try to
 ## stack
 
 `python` · `c#` · `react` · `node.js`
-
-## links
-
-[repositories](https://github.com/black-operator?tab=repositories) · [stars](https://github.com/black-operator?tab=stars)
